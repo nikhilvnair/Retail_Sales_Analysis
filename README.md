@@ -34,7 +34,7 @@ To explore and analyze retail performance data across the U.S. and demonstrate m
 | `retail_sales_analysis.sql`    | SQL queries replicating Power BI logic          |
 | `retail_analysis.py`           | Python script version of the analysis           |
 | `retail_sales_analysis_full.ipynb` | Jupyter Notebook with full visual analysis |
-| `Superstore.PNG`               | Screenshot of Power BI dashboard                |
+| `Dashboard.PNG`               | Screenshot of Power BI dashboard                |
 
 ---
 
@@ -46,7 +46,7 @@ To explore and analyze retail performance data across the U.S. and demonstrate m
 > - Monthly sales trends
 > - Sub-category and state performance
 
-![Power BI Dashboard](Superstore.PNG)
+![Power BI Dashboard](Dashboard.PNG)
 
 ---
 
@@ -78,11 +78,3 @@ To explore and analyze retail performance data across the U.S. and demonstrate m
 
 This project represents **freelance-style BI work** done during a self-learning phase. It simulates business insights generation using open-source datasets, designed to match industry analysis tasks in retail and e-commerce domains.
 
----
-
-## 📬 Contact
-
-Made with 💡 by [Your Name]
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📫 your.email@example.com
